@@ -1,7 +1,7 @@
 # pxt-envirobit-calliope
 
+ [![Build Status](https://travis-ci.org/MKleinSB/pxt-envirobit-calliope.svg?branch=master)](https://travis-ci.org/MKleinSB/pxt-envirobit-calliope)
 
-[![Build Status] (https://travis-ci.org/MKleinSB/pxt-envirobit-calliope.svg?branch=master)](https://travis-ci.org/MKleinSB/pxt-envirobit-calliope)
 This package adds support for the Pimoroni enviro:bit to makecode.microbit.org.
 
 An enviro:bit is required to use this package, grab yours here: https://shop.pimoroni.com/products/enviro-bit
