@@ -1,5 +1,5 @@
 //% weight=100 color=#000000 icon="\uf043" block="Enviro:Bit"
-// Changed to work with Calliope Mini & Callio:bit
+// Changed to work with Calliope Mini & Callio:bit by M.Klein
 // MIT-License by Pimoroni 2018
 namespace envirobit {
     class bme280 {

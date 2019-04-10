@@ -1,14 +1,14 @@
 # pxt-envirobit-calliope
 
 
- (https://travis-ci.org/MKleinSB/pxt-envirobit-calliope.svg?branch=master)](https://travis-ci.org/MKleinSB/pxt-envirobit-calliope)
+[![Build Status] (https://travis-ci.org/MKleinSB/pxt-envirobit-calliope.svg?branch=master)](https://travis-ci.org/MKleinSB/pxt-envirobit-calliope)
 This package adds support for the Pimoroni enviro:bit to makecode.microbit.org.
 
 An enviro:bit is required to use this package, grab yours here: https://shop.pimoroni.com/products/enviro-bit
 
 And you need a callio:bit M for your Calliope Mini.
 
-To use this package, go to https://makecode.calliope.cc/, click "Advanced" then "Add Package" and search for enviro:bit, or paste the URL of this GitHub repository in (https://github.com/pimoroni/pxt-envirobit). 
+To use this package, go to https://makecode.calliope.cc/, click "Advanced" then "Add Package" and paste the URL of this GitHub repository in (https://github.com/MKleinSB/pxt-envirobit-calliope). 
 
 ## JavaScript Reference
 
@@ -22,8 +22,8 @@ The following functions return the temperature, pressure and humidity in standar
 * `envirobit.getPressure()` - Returns the pressure in hPa as a whole number
 * `envirobit.getHumidity()` - Returns the relative humidity (a percentage) as a whole number
 
-Each of these functions has a "Fine" equivilent ( available in "Advanced" in block view ) which returns the same value with a higher precision - useful for logging or responding to small changes:
-
+Each of these functions has a "Fine" equivalent ( available in "Advanced" in block view ) which returns the same value with a higher precision - useful for logging or responding to small changes:
+(may be available for Calliope Mini Users only as Strings.)
 * `envirobit.getTemperatureFine()` - Returns the temperature in hundredths of a degree celcius as a whole number: eg: 1525 represents 15.25 degrees
 * `envirobit.getPressure()` - Returns the pressure in pascals, 100 pascals = 1 hectopascal
 * `envirobit.getHumidity()` - Returns the humdity in hundreths of a percent: eg: 7515 represents 75.15% relative humidity
