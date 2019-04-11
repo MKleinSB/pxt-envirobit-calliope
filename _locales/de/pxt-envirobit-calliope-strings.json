@@ -19,4 +19,8 @@
   "envirobit.getHumidity|block": "Luftfeuchtigkeit",
   "envirobit.getHumidityFine|block": "Luftfeuchtigkeit (x100)",  
   "{id:category}envirobit": "Enviro:bit"
+  "{id:subcategory}Sound": "Geräusche",
+  "{id:subcategory}Colour & Light": "Farben & Licht",
+  "{id:subcategory}Air & Weather": "Luft & Wetter",
+  "{id:subcategory}Expert": "Experten"
 }
