@@ -9,7 +9,7 @@
     },
     "files": [
         "README.md",
-        "_locales/de/pxt-envirobit-calliope.json"
+        "_locales/de/pxt-envirobit-calliope.json",
         "main.ts"
     ],
     "testFiles": [
