@@ -1,0 +1,12 @@
+{
+  "timeSinceLastClap|block": "Zeit nach dem letzten Klatschen (ms)",
+  "setClapSensitivity|block": "Setze Klatschempfindlichkeit auf %value",
+  "onClap|block": "Wenn geklatscht",
+  "waitForDoubleClap|block": "Warte %timeout|ms auf ein Doppelklatschen",
+  "waitForClap|block": "Warte %timeout|ms auf ein Klatschen",
+  "getSoundLevel|block": "Lautstärke",
+  "getNoiseLevel|block": "Durchschnittliche Lautstärke",
+  "setLEDs|block": "Schalte LEDs %state",
+  "makerbit|block": "MakerBit",
+  "{id:category}envirobit": "Enviro:bit"
+}
