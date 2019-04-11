@@ -1,6 +1,6 @@
 {
     "name": "pxt-envirobit-calliope",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Envirobit mit dem Calliope Mini ansteuern",
     "license": "MIT",
     "dependencies": {
@@ -9,7 +9,7 @@
     },
     "files": [
         "README.md",
-        "_locales/de/pxt-envirobit-calliope.json",
+        "_locales/de/pxt-envirobit-calliope-strings.json",
         "main.ts"
     ],
     "testFiles": [
