@@ -215,8 +215,8 @@ namespace envirobit {
         clap_time: number
         sample: number
         samples: number[]
-        // AnalogPin.P2 ist beim Calliobit M P1 oder Dezimal 7
-        constructor(pin: AnalogPin = 7) {
+        // Statt AnalogPin.P2 nehmen wir den Mikrofoneingang vom Calliope Mini! (Dezimal 50)
+        constructor(pin: AnalogPin = 50) {
             this.pin = pin
             this.offset = 580
             this.threshold = 25
