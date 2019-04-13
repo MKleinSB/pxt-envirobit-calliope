@@ -327,8 +327,8 @@ namespace envirobit {
     let _bme280: bme280 = new bme280(0x76)
     // DigitalPin.P8 ist beim Calliobit M C4 oder Dezimal 10
     let _tcs3472: tcs3472 = new tcs3472(0x29, 10)
-    // AnalogPinP2 ist beim Calliobit M P1 oder Dezimal 7
-    let _sound: sound = new sound(7)
+    // AnalogPinP2 Umgeleitet auf Mikrofon des Calliope
+    let _sound: sound = new sound(50)
 
     let sensitivity: number = 25
 
