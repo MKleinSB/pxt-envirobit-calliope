@@ -6,7 +6,7 @@ This package adds support for the Pimoroni enviro:bit to makecode.microbit.org.
 
 An enviro:bit is required to use this package, grab yours here: https://shop.pimoroni.com/products/enviro-bit
 
-And you need a callio:bit M for your Calliope Mini.
+And you need a callio:bit https://www.hackster.io/MKlein/callio-bit-die-micro-bit-erweiterung-fur-calliope-mini-d51ea7 for your Calliope Mini. Instead of using the microphone of the envirobit, this package uses the inbuilt microphone of the Calliope Mini. So you only need the I2C-part of the callio:bit and no soldering is required, 
 
 To use this package, go to https://makecode.calliope.cc/, click "Advanced" then "Add Package" and paste the URL of this GitHub repository in (https://github.com/MKleinSB/pxt-envirobit-calliope). 
 
