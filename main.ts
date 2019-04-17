@@ -1,7 +1,8 @@
 //% weight=100 color=#000000 icon="\uf043" block="Enviro:Bit"
 // Changed to work with Calliope Mini & Callio:bit by M.Klein
 // Uses the microphone of the Calliope Mini
-// MIT-License by Pimoroni 2018
+// MIT-License by Pimoroni 2018/2019
+
 namespace envirobit {
     class bme280 {
         is_setup: boolean
