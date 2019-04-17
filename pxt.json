@@ -1,6 +1,6 @@
 {
     "name": "pxt-envirobit-calliope",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "description": "Envirobit mit dem Calliope Mini ansteuern",
     "license": "MIT",
     "dependencies": {
